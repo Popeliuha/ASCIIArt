@@ -1,0 +1,7 @@
+C:\Users\Popeliuha\source\repos\ASCII art\ASCII art\bin\Debug\ASCII art.exe.config
+C:\Users\Popeliuha\source\repos\ASCII art\ASCII art\bin\Debug\ASCII art.exe
+C:\Users\Popeliuha\source\repos\ASCII art\ASCII art\bin\Debug\ASCII art.pdb
+C:\Users\Popeliuha\source\repos\ASCII art\ASCII art\obj\Debug\ASCII art.csproj.AssemblyReference.cache
+C:\Users\Popeliuha\source\repos\ASCII art\ASCII art\obj\Debug\ASCII art.csproj.CoreCompileInputs.cache
+C:\Users\Popeliuha\source\repos\ASCII art\ASCII art\obj\Debug\ASCII art.exe
+C:\Users\Popeliuha\source\repos\ASCII art\ASCII art\obj\Debug\ASCII art.pdb
